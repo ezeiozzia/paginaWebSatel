@@ -1,7 +1,7 @@
 <!--  HEADINGS -->
 # Pagina Web Satel
 
-![Satel SA logo](SATELSA.PNG "Satel SA logo")
+![Satel SA logo](SATELSA.png "Satel SA logo")
 
 >La página web de SATEL está programada en HTML, CSS Y JavaScript
 
@@ -23,4 +23,4 @@ Mi nombre es Ezequiel David Iozzia, soy estudiante de la Universidad Nacional de
 Este es mi primer proyecto Web, en el cuál pretendo poder aprender de las tecnologías aplicadas y poder mostrarles lo que fui logrando en el transcurso del tiempo. 
 
 
-@ezeweb :smiley: :computer: :+1:
+@ezeweb :smiley: :computer: 
