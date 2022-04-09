@@ -1,18 +1,23 @@
 <!--  HEADINGS -->
-# Pagina Web Satel
+# <center> <span style="color:white">Proyecto web development </span>
 
-![Satel SA logo](SATELSA.png "Satel SA logo")
 
->La página web de SATEL está programada en HTML, CSS Y JavaScript
+<p align="center">
+  <img src="SATELSA.png" />
+</p>
 
+## Información :bulb:
+
+> La página web de SATEL está programada en HTML, CSS Y JavaScript
+---
 ## Integrantes:
 ---
 <!-- strong -->
 *
-    **Ezequiel David Iozzia**
+    **[Ezequiel David Iozzia](https://www.linkedin.com/in/ezequieliozzia/)**
 
 
-## Datos sobre la pagina
+## Tecnologías a utilizar
 ---
 Para desarrollar esta página se utilizará HTML como Lenguaje de Marcas de Hipertexto, CSS3 para darle estilo, visualización y, por último, programaremos con JavaScript para poder interactuar con la misma. 
 
